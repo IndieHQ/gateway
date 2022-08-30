@@ -26,9 +26,7 @@ Why do we store this information?
 1. Discord
 </p>
 <p class="ml-4">
-Discord data is stored to make sure Moosic can operate, provide "premium" perks to certain
-users
-and allow servers to set their own settings.<br>
+Discord data is stored to make sure Gateway can operate and allow servers to set their own settings.<br>
 </p>
 <p class="font-semibold text-gray-200 mt-4">2. Opt-in</p>
 <div class="ml-4">
