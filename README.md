@@ -19,7 +19,7 @@ This repository contains the privacy policy and terms of service for the ussage 
 **this data is collected to ensure that our services can function properly.**
   
   
-  please reffer to /TermsOfService and /PrivacyPolicy for detailed information regarding our services.
+  please reffer to `/TermsOfService` and `/PrivacyPolicy` for detailed information regarding our services.
   
   
 ##Links
