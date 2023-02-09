@@ -1,5 +1,4 @@
-# SOLANITYMUSIC
-
+# Gateway Terms And Conditions
   
 
 This repository contains the privacy policy and terms of service for the ussage of any services related to Gateway and our products.
