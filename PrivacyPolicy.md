@@ -24,7 +24,7 @@
 
  
 <h1 class="font-medium leading-tight text-4xl mt-0 mb-2 text-red-600 underline underline">Service </h1>
-Service is the https://wwwgatewaybot.xyz/ website and Bot operated by Gateway.
+Service is the https://wwwgatewaybot.xyz/ website and Bot operated by Gateway Team.
 
 <h1 class="font-medium leading-tight text-4xl mt-0 mb-2 text-red-600 underline underline"> Personal Data </h1>
 <P></P>Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
